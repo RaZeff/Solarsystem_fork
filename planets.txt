@@ -5,7 +5,9 @@ Earth
 Mars
 Ceres
 Jupiter
+ - Europa
 Saturn
+ - Titan
 Uranus
 Neptune
 Pluto
